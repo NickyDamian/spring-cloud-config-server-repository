@@ -1,0 +1,6 @@
+#General application configuration logic
+spring:
+  cloud:
+    config:
+      allow-overrider: true
+      overrider-none: true
