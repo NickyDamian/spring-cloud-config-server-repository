@@ -1,7 +1,7 @@
 server:
   port: 8181
 
-hub-to-kafka-services:
+hub-to-kafka-service:
   hub-keywords:
     - Water
     - Electricity
